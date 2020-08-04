@@ -1,4 +1,4 @@
-#to be cleaner, I prefer to set the function in another script
+#to make it cleaner, I prefer to set the function in another script
 
 def winner(tab):
     win_player_x=0
